@@ -1,2 +1,1 @@
-# betty
-betty linter
+my first programming with betty
